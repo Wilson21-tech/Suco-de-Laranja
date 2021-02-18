@@ -1,0 +1,32 @@
+*{
+    width:100%;
+    height:100%;
+    margin:0;
+    padding:0;
+    background-color:purple;
+    
+}
+.box-1{
+    width:500px;
+    height:300px;
+    background-color:#070D0D;
+    margin:2% auto;
+    border:5px solid #fff;
+}
+.box-2{
+    width:650px;
+    height:450px;
+    background-color: #343837;
+    margin:2% auto;
+    border:5px solid #FA4224;
+}
+.box-3{
+    width:750px;
+    height:550px;
+    background-color: #B30049;
+    margin:2% auto;
+    border-radius:30%; 
+    border-color: aqua;
+    border:1px solid;
+
+}
